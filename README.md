@@ -1,4 +1,4 @@
-<img width="668" height="1467" alt="iPad-668x1467" src="https://github.com/user-attachments/assets/2306385c-2d81-4064-989c-844ab105d86f" /><img width="1559" height="2180" alt="Macbook-Air-1559x2180" src="https://github.com/user-attachments/assets/9979fe82-68b1-4c40-ab14-846c21aae573" /># Netflix Clone 🎬
+# Netflix Clone 🎬
 
 A responsive Netflix clone built with **React (Vite)**, **Firebase Authentication**, and **The Movie Database (TMDb) API**.
 This project replicates core Netflix features including sign in/sign up, movie browsing with banners and horizontal rows, and trailer playback via YouTube integration.
