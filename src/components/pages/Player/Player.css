@@ -1,0 +1,37 @@
+.player {
+    height: 100dvh;
+    /* why? */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.player img {
+    /* without having a parent with position relative */
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.player iframe {
+    border-radius: 10px;
+}
+
+.player-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+
+
+/* responsive */
+
+@media (max-width : 800px) {
+    .player-info {
+        font-size: 14px;
+    }
+}
