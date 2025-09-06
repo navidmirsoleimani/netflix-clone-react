@@ -112,6 +112,5 @@ Contributions are welcome! Feel free to fork the project, submit issues, or open
 
 
 👉 Live Demo: [Netflix Clone on GitHub Pages](https://navidmirsoleimani.github.io/netflix-clone-react/)
-https://navidmirsoleimani.github.io/netflix-clone-react/
 
 ---
